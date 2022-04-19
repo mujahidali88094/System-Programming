@@ -1,4 +1,5 @@
-/*
+/* 
+   ls command in linux
 
    NOTE: compile with -lm (i.e. Math library)
             -lm should be after fileName
