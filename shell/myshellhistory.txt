@@ -1,0 +1,100 @@
+! 20
+! 10
+history
+clear
+exit
+ls
+./a.out
+clear
+exit
+ls
+ls &
+ls&
+ls
+ls&
+clear
+exit
+ls&
+clear
+exit
+ls&
+exit
+sleep 1000&
+sleep 1000&;ls
+clear
+exit
+clear
+exit
+ls
+exit
+exit
+murshad=husnain
+echo $murshad
+clear
+exit
+hello
+exit
+ls
+exit
+1=2
+echo $1
+clear
+exit
+hello
+clear
+ls
+cat Hello.txt 
+cat Hello.txt | wc -l
+cat Hello.txt | wc -l | wc
+clear
+exit
+ls | wc -l | wc
+clear
+ps -a
+clear
+ls&
+clear
+ps -a
+ps -a
+clear
+exit
+clear
+exit
+a | b
+clear
+ls | wc -l
+clear
+exit
+a = b
+$a
+echo $a
+echo $a 
+!1
+! 1
+! 2
+! 3
+! 5
+clear
+clear
+clear
+exit
+name = ironlad
+echo $name
+exit
+echo $name = "Mujahid"
+echo $name
+name = Mujahid
+Echo $name
+echo $name
+exit
+echo "Hello Mujahid" >Hello.txt
+cat Hello.txt 
+exit
+cat <myshellhistory.txt 
+echo <myshellhistory.txt 
+echo 0<myshellhistory.txt 
+echo Hello
+echo "Hello" >Hello.txt
+echo <Hello.txt
+echo 0<Hello.txt
+exit
